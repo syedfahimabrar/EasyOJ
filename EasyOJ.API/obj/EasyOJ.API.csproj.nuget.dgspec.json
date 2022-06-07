@@ -10,11 +10,11 @@
         "projectUniqueName": "/workspaces/EasyOJ/EasyOJ.API/EasyOJ.API.csproj",
         "projectName": "EasyOJ.API",
         "projectPath": "/workspaces/EasyOJ/EasyOJ.API/EasyOJ.API.csproj",
-        "packagesPath": "/var/nuget",
+        "packagesPath": "/home/vscode/.nuget/packages/",
         "outputPath": "/workspaces/EasyOJ/EasyOJ.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/home/vscode/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/opt/dotnet/6.0.201/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }
